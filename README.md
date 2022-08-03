@@ -1,18 +1,21 @@
 # fastapi_streamlit
 references of connecting streamlit to fastapi server 
 
-<code>
+### Clone repository
+```
 git clone https://github.com/seungwoo-h/fastapi_streamlit.git
-</code>
-  
-<code>
+```
+
+### Run streamlit ui
+```
 streamlit run streamlit/ui.py
-</code>
-  
-<code>
-cd fastapi. 
+```
+
+### Run FastAPI server
+```
+cd fastapi  
 uvicorn run main:app --reload
-</code>
+```
 
 
 
