@@ -1,7 +1,9 @@
 # fastapi_streamlit
 connecting streamlit to fastapi server references
 
-'''shell
+<code>
 streamlit run streamlit/ui.py
-'''
+</code>
+
+
 
